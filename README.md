@@ -1,2 +1,2 @@
 # Practices-of-Program
-For Practice the github Command
+Practice the Program day by day
